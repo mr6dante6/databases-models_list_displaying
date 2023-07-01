@@ -1,0 +1,200 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Ф.Д. Достоевский",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "American Gods",
+      "author": "Neil Gaiman",
+      "pub_date": "2001-06-19"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Последний вопрос",
+      "author": "Айзек Азимов",
+      "pub_date": "1956-11-10"
+    }
+  },
+    {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Звездный лабиринт",
+      "author": "Александр Иванов",
+      "pub_date": "2075-03-12"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Искусственное сознание",
+      "author": "Елена Смирнова",
+      "pub_date": "2150-11-05"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "name": "Галактический код",
+      "author": "Максим Беляев",
+      "pub_date": "2237-07-19"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "name": "Порталы бесконечности",
+      "author": "Наталья Козлова",
+      "pub_date": "2312-09-03"
+    }
+  },
+    {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "name": "Метрополис",
+      "author": "Андрей Петров",
+      "pub_date": "2055-08-14"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "name": "Генетический код",
+      "author": "Мария Соколова",
+      "pub_date": "2120-06-30"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 11,
+    "fields": {
+      "name": "Инопланетный артефакт",
+      "author": "Алексей Николаев",
+      "pub_date": "2199-02-17"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 12,
+    "fields": {
+      "name": "Цифровая революция",
+      "author": "Екатерина Лебедева",
+      "pub_date": "2276-10-22"
+    }
+  },
+    {
+    "model": "books.book",
+    "pk": 13,
+    "fields": {
+      "name": "Квантовый лабиринт",
+      "author": "Иван Зайцев",
+      "pub_date": "2350-04-05"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 14,
+    "fields": {
+      "name": "Битва за Марс",
+      "author": "Алиса Смирнова",
+      "pub_date": "2412-11-19"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 15,
+    "fields": {
+      "name": "Путь к звездам",
+      "author": "Максим Ковалев",
+      "pub_date": "2499-07-03"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 16,
+    "fields": {
+      "name": "Гиперпространство",
+      "author": "Виктория Иванова",
+      "pub_date": "2578-01-27"
+    }
+  },
+    {
+    "model": "books.book",
+    "pk": 17,
+    "fields": {
+      "name": "Война миров",
+      "author": "Герберт Уэллс",
+      "pub_date": "1898-10-01"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 18,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэлл",
+      "pub_date": "1949-06-08"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 19,
+    "fields": {
+      "name": "Марсианские хроники",
+      "author": "Рэй Брэдбери",
+      "pub_date": "1950-06-01"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 20,
+    "fields": {
+      "name": "Дюна",
+      "author": "Фрэнк Герберт",
+      "pub_date": "1965-08-01"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 21,
+    "fields": {
+      "name": "Путешествие",
+      "author": "Иванов Иван",
+      "pub_date": "1991-04-22"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 21,
+    "fields": {
+      "name": "Путешествие за горизонт",
+      "author": "Иванов Иван",
+      "pub_date": "1991-04-22"
+    }
+  }
+]
